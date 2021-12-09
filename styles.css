@@ -87,6 +87,19 @@
   }
 }
 
+@media (max-width: 415px) {
+  .heading {
+    position: absolute;
+    font-size: 1.5em;
+    top: 24%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+    color: lightgray;
+    width: 80%;
+    margin: auto;
+  }
+}
+
 @media (max-width: 361px) {
   .heading {
     position: absolute;
@@ -150,14 +163,12 @@
 footer {
   height: 100px;
   background: black;
-  overflow: hidden;
+  overflow: scroll;
   text-align: center;
 }
 
 .socials {
-  float: left;
   padding: 20px;
-  padding-left: 100px;
 }
 
 .inDevelopment {
