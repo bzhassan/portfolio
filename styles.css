@@ -311,3 +311,12 @@ ul {
 .navbar-dark .nav-item > .nav-link.active {
   color: white;
 }
+
+body {
+  padding-top: 56px;
+}
+@media (max-width: 979px) {
+  body {
+    padding-top: 0px;
+  }
+}
