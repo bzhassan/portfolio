@@ -317,3 +317,11 @@ ul {
     padding-top: 0px;
   }
 }
+
+.mq_background {
+  background-image: url('images/background_images/Macquarie_Group_logo_background.png');
+}
+
+.lm_background {
+  background-image: url('images/background_images/Leanmote_logo_background.png');
+}
