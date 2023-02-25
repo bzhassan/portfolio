@@ -125,6 +125,10 @@ html {
     margin: auto;
     opacity: 0.75;
   }
+
+  .mq_background {
+    background-image: url('images/background_images/Macquarie_Group_logo_background_mobile.png');
+  }
 }
 
 @media (max-width: 415px) {
@@ -320,8 +324,10 @@ ul {
 
 .mq_background {
   background-image: url('images/background_images/Macquarie_Group_logo_background.png');
+  background-repeat: no-repeat;
 }
 
 .lm_background {
   background-image: url('images/background_images/Leanmote_logo_background.png');
+  background-repeat: no-repeat;
 }
