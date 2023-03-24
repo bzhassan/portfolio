@@ -331,3 +331,20 @@ ul {
   background-image: url('images/background_images/Leanmote_logo_background.png');
   background-repeat: no-repeat;
 }
+
+.mainRunner {
+  /*border: 1px solid #000;*/
+}
+
+.img1 {
+  /*border: 1px solid #f00;*/
+  position: relative;
+}
+
+.img2 {
+ /* border: 1px solid #0f0;*/
+  position: relative;
+  z-index: 1;
+  top: 44px;
+  left: -6%;
+}
