@@ -415,14 +415,14 @@ ul {
 
   /* Adjust carousel controls positioning */
   .carousel-control-prev {
-    left: 20% !important;
+    left: 12px !important;
     width: 35px !important;
     height: 35px !important;
     top: 45% !important;
   }
 
   .carousel-control-next {
-    right: 20% !important;
+    right: 12px !important;
     width: 35px !important;
     height: 35px !important;
     top: 45% !important;
