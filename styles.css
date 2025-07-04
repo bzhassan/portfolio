@@ -357,7 +357,7 @@ ul {
   background-size: 80%, 80%; /* Make sure the icon fits the smaller button */
 }
 
-.slanted-div .project-info {
+.slanted-div  {
   text-align: left;
 }
 
